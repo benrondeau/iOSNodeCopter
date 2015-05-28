@@ -1,0 +1,10 @@
+/* Empty. Add your own CSS if you like */
+.spacer{
+	margin-top: 50px;
+}
+
+.center{
+	display: block;
+	width: 70px;
+	margin: auto;
+}
